@@ -44,6 +44,12 @@
       margin: 5px 0;
     }
 
+    /* Self-introduction */
+    .info .introduction {
+      margin-top: 10px;
+      font-size: 1em;
+    }
+
     /* Responsive design for smaller screens */
     @media screen and (max-width: 768px) {
       .container {
@@ -68,10 +74,13 @@
     <!-- Image on the left -->
     <img src="photo.jpeg" alt="Sundareswari Thiyagarajan" class="profile-img">
 
-    <!-- Name and email on the right -->
+    <!-- Name, email, and self-introduction on the right -->
     <div class="info">
       <h1>Sundareswari Thiyagarajan</h1>
       <p><strong>Email:</strong> <a href="mailto:tsundareswari@gmail.com">tsundareswari@gmail.com</a></p>
+      <p class="introduction">
+        Hello! I am Sundareswari Thiyagarajan, a dedicated and enthusiastic researcher with a focus on Machine Learning and Artificial Intelligence applications, especially in areas like Drug-Drug Interactions and Stress Detection. I am passionate about exploring cutting-edge technologies and applying them to solve real-world problems.
+      </p>
     </div>
   </div>
 
