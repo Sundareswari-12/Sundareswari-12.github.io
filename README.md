@@ -139,7 +139,7 @@
         Developed a handheld portable device for viable embryo detection, funded by CSRC under the Research Support Scheme "Student Innovative Project".
       </li>
       <li>
-        <strong>THE PARKINSON’S DISEASE DETECTION USING MACHINE LEARNING TECHNIQUES (</strong> (2024)<br>
+        <strong>THE PARKINSON’S DISEASE DETECTION USING MACHINE LEARNING TECHNIQUES </strong> (2024)<br>
         Detecting Parkinsons disease using Spiral test , where the input images are trained with Random Forest Classifier. To implement Parkinson’s detector deep learning and Convolutional Neural Networks (CNNs) are used.
       </li>
       <!-- Add more projects as needed -->
@@ -153,14 +153,14 @@
     <h2>Research</h2>
     <ul>
       <li>
-        <a href="link-to-pdf.pdf">The Multiple Approaches for Drug-Drug Interaction Extraction using Machine Learning and Transformer-based Model</a><br>
-        Gurpreet Singh, Dr. Kim Yong Il, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
-        <em>Journal on Artificial Intelligence 2024 (Under Review)</em>
+        The Multiple Approaches for Drug-Drug Interaction Extraction using Machine Learning and Transformer-based Model<br>
+        Gurpreet Singh, Dr. Kim Yong II, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
+        <em>Journal on Artificial Intelligence 2024 </em>(Under Review).<a href="The Multiple Approaches for Drug-Drug Interaction Extraction using Machine learning and transformer-based Model.pdf">[pdf]</a>
       </li>
       <li>
-        <a href="link-to-pdf.pdf">A Multi-Model Approach: Stress Detection using Physiological Signals with LSTM and XGBoost</a><br>
+        A Multi-Model Approach: Stress Detection using Physiological Signals with LSTM and XGBoost<br>
         Dr. Saurabh Singh, Gurpreet Singh, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
-        <em>IEEE Access 2024 (Under Review)</em>
+        <em>IEEE Access 2024 </em> (Under Review).<a href="A Multi-Model Approach- Stress Detection using Physiological Signals with LSTM and XGBoost.pdf">[pdf]</a>
       </li>
     </ul>
   </section>
