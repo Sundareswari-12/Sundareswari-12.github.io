@@ -17,6 +17,7 @@
       justify-content: space-between;
       gap: 20px; /* Space between the image and info */
     }
+
     /* Image styling */
     .profile-img {
       width: 150px;
@@ -64,8 +65,11 @@
       color: black; /* This makes the slashes neutral */
     }
 
-    /* Responsive design for smaller screens */
+    /* General mobile view adjustments */
     @media screen and (max-width: 768px) {
+      body {
+        margin: 10px;
+      }
       .container {
         flex-direction: column;
         align-items: center;
@@ -74,6 +78,7 @@
 
       .profile-img {
         margin-bottom: 20px;
+        width: 120px; /* Slightly smaller image on mobile */
       }
 
       .info {
@@ -82,6 +87,26 @@
 
       .sections {
         text-align: center;
+        font-size: 1em; /* Slightly smaller font for mobile */
+      }
+
+      /* Make the sections more touch-friendly */
+      .sections a {
+        padding: 10px;
+        display: inline-block;
+      }
+
+      .info .introduction {
+        font-size: 0.9em;
+      }
+
+      section ul {
+        padding-left: 0;
+        list-style: none; /* Remove bullet points on mobile for a cleaner look */
+      }
+
+      section ul li {
+        margin-bottom: 10px;
       }
     }
   </style>
@@ -169,7 +194,7 @@
       </li>
       <li>
         <strong>THE PARKINSON’S DISEASE DETECTION USING MACHINE LEARNING TECHNIQUES </strong> (2024)<br>
-        Detecting Parkinsons disease using Spiral test , where the input images are trained with Random Forest Classifier. To implement Parkinson’s detector deep learning and Convolutional Neural Networks (CNNs) are used.
+        Detecting Parkinson's disease using Spiral test, where the input images are trained with Random Forest Classifier. Deep learning and Convolutional Neural Networks (CNNs) are used to implement the detector.
       </li>
       <!-- Add more projects as needed -->
     </ul>
