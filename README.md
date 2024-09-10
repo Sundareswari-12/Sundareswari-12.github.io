@@ -5,22 +5,13 @@
 <img src="link-to-your-photo.jpg" alt="Your Name" width="150" style="border-radius: 50%;"/>
 ## Author
 
-- **Name:** Your Name  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+Sundareswari Thiyagarajan 
+[tsundareswari@gmail.com](mailto:tsundareswari@gmail.com)
 
 ## Research
 
 Briefly describe your research focus or area of expertise. You can include details such as:
-- Main research topics or fields
-- Key objectives of your research
-- Relevant achievements or publications
 
-## Project Overview
-
-Provide a short summary of the project:
-- What is the project about?
-- What problem does it aim to solve?
-- Any important details or highlights about the project.
 
 ## Project Documentation
 
@@ -28,7 +19,17 @@ You can find the detailed project report in the following PDF:
 
 [Download Project PDF](link-to-your-pdf.pdf)
 
-## Contact
-
-EDUCATION:
-B.E Computer Science
+## Certifications \ Awards
+- Texas Instruments Online contest participation in the IICDC-
+2019-LIC (Oct 2019).
+- Texas Instruments Online contest participation in the IICDC-
+2019-MSP (Oct 2019).
+- React JS Workshop conducted by Madras Institute of
+Technology, Anna University, Chennai (May 2022).
+- Handheld portable device for viable embryo detection in banana
+breeding program funded by CSRC under Research Support
+Scheme “Student Innovative Project”(July - Dec 2022)
+- NCC ‘C’ Certificate provided by Ministry of Defence,
+Government of India (2022).
+- Internship Certificate for AI to detect Criminal Cars with License
+Plate (2024).
