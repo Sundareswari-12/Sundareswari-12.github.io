@@ -1,5 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sundareswari Thiyagarajan</title>
+  <style>
+    /* Basic styling */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    /* Flexbox container for the image and contact details */
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px; /* Space between the image and info */
+    }
     /* Image styling */
     .profile-img {
       width: 150px;
