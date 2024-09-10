@@ -33,3 +33,5 @@ Scheme “Student Innovative Project”(July - Dec 2022)
 Government of India (2022).
 - Internship Certificate for AI to detect Criminal Cars with License
 Plate (2024).
+
+</div>
