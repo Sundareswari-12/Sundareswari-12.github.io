@@ -1,23 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sundareswari Thiyagarajan</title>
-  <style>
-    /* Basic styling */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    /* Flexbox container for the image and contact details */
-    .container {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 20px; /* Space between the image and info */
-    }
-
     /* Image styling */
     .profile-img {
       width: 150px;
@@ -99,7 +81,7 @@
 
   <!-- Links to sections -->
   <section class="sections">
-    <h2>CV & Quick Links</h2>
+    <h2>Quick Links</h2>
     <ul>
       <li><a href="CV.pdf">CV</a></li>
       <li><a href="https://github.com/Sundareswari-12" target="_blank">GitHub</a></li>
@@ -117,7 +99,7 @@
     <h2>Internships</h2>
     <ul>
       <li>
-        <strong>AI to Detect Criminal Cars with License Plate</strong> (2024)<br>
+        <a href="https://gurpreetsinghwsu.github.io/cv/projects.html"><strong>AI to Detect Criminal Cars with License Plate</strong> (2024)</a><br>
         Worked on developing an AI model to identify criminal vehicles using license plate recognition. The project involved computer vision and deep learning techniques.
       </li>
       <!-- Add more internships as needed -->
