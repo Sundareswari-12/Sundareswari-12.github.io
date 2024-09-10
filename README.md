@@ -100,12 +100,12 @@
 
   <!-- Links to sections -->
   <section class="sections">
-    <h2>Quick Links</h2>
+    <h2>CV & Quick Links</h2>
     <ul>
       <li><a href="CV.pdf">CV</a></li>
-      <li><a href="#internships">Internships</a></li>
       <li><a href="https://github.com/your-github" target="_blank">GitHub</a></li>
-      <li><a href="https://scholar.google.com/your-profile" target="_blank">Google Scholar</a></li>
+      <li><a href="#internships">Internships</a></li>
+      <li><a href="#projects">Projects</a></li>
       <li><a href="#research">Research</a></li>
       <li><a href="#certifications">Certifications</a></li>
     </ul>
@@ -122,6 +122,24 @@
         Worked on developing an AI model to identify criminal vehicles using license plate recognition. The project involved computer vision and deep learning techniques.
       </li>
       <!-- Add more internships as needed -->
+    </ul>
+  </section>
+
+  <hr>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>
+        <strong>Viable Embryo Detection in Banana Breeding</strong> (2022)<br>
+        Developed a handheld portable device for viable embryo detection, funded by CSRC under the Research Support Scheme "Student Innovative Project".
+      </li>
+      <li>
+        <strong>Stress Detection using LSTM & XGBoost</strong> (2024)<br>
+        A multi-model approach to detect stress using physiological signals and machine learning models such as LSTM and XGBoost.
+      </li>
+      <!-- Add more projects as needed -->
     </ul>
   </section>
 
