@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -13,17 +14,16 @@
     /* Flexbox container for the image and contact details */
     .container {
       display: flex;
-      flex-direction: row;
       align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
+      justify-content: flex-start;
+      gap: 20px; /* Space between the image and info */
     }
 
     /* Image styling */
     .profile-img {
       width: 150px;
       height: auto;
-      margin-right: 20px;
+      border-radius: 8px;
     }
 
     /* Right-side content */
@@ -31,12 +31,13 @@
       flex-grow: 1;
       display: flex;
       flex-direction: column;
+      justify-content: center;
     }
 
-    /* Email and name alignment */
+    /* Name and email alignment */
     .info h1 {
       margin: 0;
-      font-size: 1.5em;
+      font-size: 1.8em;
     }
 
     .info p {
@@ -47,6 +48,7 @@
     .info .introduction {
       margin-top: 10px;
       font-size: 1em;
+      line-height: 1.6;
     }
 
     /* Responsive design for smaller screens */
@@ -54,6 +56,7 @@
       .container {
         flex-direction: column;
         align-items: center;
+        text-align: center;
       }
 
       .profile-img {
@@ -62,7 +65,6 @@
 
       .info {
         align-items: center;
-        text-align: center;
       }
     }
   </style>
