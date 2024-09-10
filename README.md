@@ -103,15 +103,32 @@
     <ul>
       <li><a href="CV.pdf">CV</a></li>
       <li><a href="https://github.com/Sundareswari-12" target="_blank">GitHub</a></li>
+      <li><a href="#research">Research</a></li>
       <li><a href="#internships">Internships</a></li>
       <li><a href="#projects">Projects</a></li>
-      <li><a href="#research">Research</a></li>
       <li><a href="#certifications">Certifications</a></li>
     </ul>
   </section>
 
   <hr>
+    <!-- Research Section -->
+  <section id="research">
+    <h2>Research</h2>
+    <ul>
+      <li>
+        <strong>The Multiple Approaches for Drug-Drug Interaction Extraction using Machine Learning and Transformer-based Model </strong> (2024)<br>
+        Gurpreet Singh, Dr. Kim Yong II, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
+        <em>Journal on Artificial Intelligence 2024 </em>(Under Review).<a href="The Multiple Approaches for Drug-Drug Interaction Extraction using Machine learning and transformer-based Model.pdf">[pdf]</a>
+      </li>
+      <li>
+        <strong> A Multi-Model Approach: Stress Detection using Physiological Signals with LSTM and XGBoost </strong> (2024)<br>
+        Dr. Saurabh Singh, Gurpreet Singh, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
+        <em>IEEE Access 2024 </em> (Under Review).<a href="A Multi-Model Approach- Stress Detection using Physiological Signals with LSTM and XGBoost.pdf">[pdf]</a>
+      </li>
+    </ul>
+  </section>
 
+  <hr>
   <!-- Internship Section -->
   <section id="internships">
     <h2>Internships</h2>
@@ -143,25 +160,6 @@
         Detecting Parkinsons disease using Spiral test , where the input images are trained with Random Forest Classifier. To implement Parkinson’s detector deep learning and Convolutional Neural Networks (CNNs) are used.
       </li>
       <!-- Add more projects as needed -->
-    </ul>
-  </section>
-
-  <hr>
-
-  <!-- Research Section -->
-  <section id="research">
-    <h2>Research</h2>
-    <ul>
-      <li>
-        <strong>The Multiple Approaches for Drug-Drug Interaction Extraction using Machine Learning and Transformer-based Model </strong> (2024)<br>
-        Gurpreet Singh, Dr. Kim Yong II, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
-        <em>Journal on Artificial Intelligence 2024 </em>(Under Review).<a href="The Multiple Approaches for Drug-Drug Interaction Extraction using Machine learning and transformer-based Model.pdf">[pdf]</a>
-      </li>
-      <li>
-        <strong> A Multi-Model Approach: Stress Detection using Physiological Signals with LSTM and XGBoost </strong> (2024)<br>
-        Dr. Saurabh Singh, Gurpreet Singh, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
-        <em>IEEE Access 2024 </em> (Under Review).<a href="A Multi-Model Approach- Stress Detection using Physiological Signals with LSTM and XGBoost.pdf">[pdf]</a>
-      </li>
     </ul>
   </section>
 
