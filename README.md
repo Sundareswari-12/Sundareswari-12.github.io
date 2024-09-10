@@ -10,6 +10,15 @@
       font-family: Arial, sans-serif;
       margin: 20px;
     }
+    /* Email and name alignment */
+    .info h1 {
+      margin: 0;
+      font-size: 1.5em;
+    }
+
+    .info p {
+      margin: 5px 0;
+    }
 
     /* Flexbox container for the image and contact details */
     .container {
@@ -32,16 +41,6 @@
       flex-grow: 1;
       display: flex;
       flex-direction: column;
-    }
-
-    /* Email and name alignment */
-    .info h1 {
-      margin: 0;
-      font-size: 1.5em;
-    }
-
-    .info p {
-      margin: 5px 0;
     }
 
     /* Responsive design for smaller screens */
