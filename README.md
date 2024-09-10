@@ -168,7 +168,7 @@
         Developed a handheld portable device for viable embryo detection, funded by CSRC under the Research Support Scheme "Student Innovative Project".
       </li>
       <li>
-        <strong>THE PARKINSON’S DISEASE DETECTION USING MACHINE LEARNING TECHNIQUES </strong> (2024)<br>
+        <strong>THE PARKINSON’S DISEASE DETECTION USING MACHINE LEARNING TECHNIQUES </strong> (2022)<br>
         Detecting Parkinsons disease using Spiral test , where the input images are trained with Random Forest Classifier. To implement Parkinson’s detector deep learning and Convolutional Neural Networks (CNNs) are used.
       </li>
       <!-- Add more projects as needed -->
