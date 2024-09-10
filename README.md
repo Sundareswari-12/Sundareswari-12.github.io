@@ -1,8 +1,3 @@
-<div align="center">
-
-# Project Title
-
-<img src="link-to-your-photo.jpg" alt="Your Name" width="150" style="border-radius: 50%;"/>
 ## Author
 
 Sundareswari Thiyagarajan 
@@ -11,11 +6,6 @@ Sundareswari Thiyagarajan
 ## Research
 
 Briefly describe your research focus or area of expertise. You can include details such as:
-
-
-## Project Documentation
-
-You can find the detailed project report in the following PDF:
 
 [Download Project PDF](link-to-your-pdf.pdf)
 
@@ -33,5 +23,3 @@ Scheme “Student Innovative Project”(July - Dec 2022)
 Government of India (2022).
 - Internship Certificate for AI to detect Criminal Cars with License
 Plate (2024).
-
-</div>
