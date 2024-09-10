@@ -10,6 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 20px;
     }
+
     /* Flexbox container for the image and contact details */
     .container {
       display: flex;
@@ -50,6 +51,17 @@
       line-height: 1.6;
     }
 
+    /* Link styles */
+    .sections a {
+      color: blue;
+      text-decoration: none;
+      font-size: 1.1em;
+    }
+
+    .sections a:hover {
+      text-decoration: underline;
+    }
+
     /* Responsive design for smaller screens */
     @media screen and (max-width: 768px) {
       .container {
@@ -86,35 +98,66 @@
 
   <hr>
 
-  <a href="CV.pdf">CV</a>
+  <!-- Links to sections -->
+  <section class="sections">
+    <h2>Quick Links</h2>
+    <ul>
+      <li><a href="CV.pdf">CV</a></li>
+      <li><a href="#internships">Internships</a></li>
+      <li><a href="https://github.com/your-github" target="_blank">GitHub</a></li>
+      <li><a href="https://scholar.google.com/your-profile" target="_blank">Google Scholar</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#certifications">Certifications</a></li>
+    </ul>
+  </section>
 
   <hr>
 
-  <h2>Recent Research</h2>
-  <ul>
-    <li>
-      <a href="link-to-pdf.pdf">The Multiple Approaches for Drug-Drug Interaction Extraction using Machine Learning and Transformer-based Model</a><br>
-      Gurpreet Singh, Dr. Kim Yong Il, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
-      <em>Journal on Artificial Intelligence 2024 (Under Review)</em>
-    </li>
-    <li>
-      <a href="link-to-pdf.pdf">A Multi-Model Approach: Stress Detection using Physiological Signals with LSTM and XGBoost</a><br>
-      Dr. Saurabh Singh, Gurpreet Singh, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
-      <em>IEEE Access 2024 (Under Review)</em>
-    </li>
-  </ul>
+  <!-- Internship Section -->
+  <section id="internships">
+    <h2>Internships</h2>
+    <ul>
+      <li>
+        <strong>AI to Detect Criminal Cars with License Plate</strong> (2024)<br>
+        Worked on developing an AI model to identify criminal vehicles using license plate recognition. The project involved computer vision and deep learning techniques.
+      </li>
+      <!-- Add more internships as needed -->
+    </ul>
+  </section>
 
   <hr>
 
-  <h2>Certifications & Awards</h2>
-  <ul>
-    <li>Texas Instruments Online contest participation in the IICDC-2019-LIC (Oct 2019).</li>
-    <li>Texas Instruments Online contest participation in the IICDC-2019-MSP (Oct 2019).</li>
-    <li>React JS Workshop conducted by Madras Institute of Technology, Anna University, Chennai (May 2022).</li>
-    <li>Handheld portable device for viable embryo detection in banana breeding program funded by CSRC under Research Support Scheme "Student Innovative Project" (July - Dec 2022).</li>
-    <li>NCC ‘C’ Certificate provided by Ministry of Defence, Government of India (2022).</li>
-    <li>Internship Certificate for AI to detect Criminal Cars with License Plate (2024).</li>
-  </ul>
+  <!-- Research Section -->
+  <section id="research">
+    <h2>Research</h2>
+    <ul>
+      <li>
+        <a href="link-to-pdf.pdf">The Multiple Approaches for Drug-Drug Interaction Extraction using Machine Learning and Transformer-based Model</a><br>
+        Gurpreet Singh, Dr. Kim Yong Il, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
+        <em>Journal on Artificial Intelligence 2024 (Under Review)</em>
+      </li>
+      <li>
+        <a href="link-to-pdf.pdf">A Multi-Model Approach: Stress Detection using Physiological Signals with LSTM and XGBoost</a><br>
+        Dr. Saurabh Singh, Gurpreet Singh, Renuka Ramasamy, Sundareswari Thiyagarajan<br>
+        <em>IEEE Access 2024 (Under Review)</em>
+      </li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <!-- Certifications Section -->
+  <section id="certifications">
+    <h2>Certifications & Awards</h2>
+    <ul>
+      <li>Texas Instruments Online contest participation in the IICDC-2019-LIC (Oct 2019).</li>
+      <li>Texas Instruments Online contest participation in the IICDC-2019-MSP (Oct 2019).</li>
+      <li>React JS Workshop conducted by Madras Institute of Technology, Anna University, Chennai (May 2022).</li>
+      <li>Handheld portable device for viable embryo detection in banana breeding program funded by CSRC under Research Support Scheme "Student Innovative Project" (July - Dec 2022).</li>
+      <li>NCC ‘C’ Certificate provided by Ministry of Defence, Government of India (2022).</li>
+      <li>Internship Certificate for AI to detect Criminal Cars with License Plate (2024).</li>
+    </ul>
+  </section>
 
 </body>
 </html>
