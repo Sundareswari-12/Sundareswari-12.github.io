@@ -17,6 +17,7 @@
       justify-content: space-between;
       gap: 20px; /* Space between the image and info */
     }
+
     /* Image styling */
     .profile-img {
       width: 150px;
@@ -49,15 +50,24 @@
       line-height: 1.6;
     }
 
-    /* Link styles */
+    /* Horizontal Quick Links */
+    .sections {
+      font-size: 1.1em;
+    }
+
     .sections a {
       color: blue;
       text-decoration: none;
-      font-size: 1.1em;
     }
 
     .sections a:hover {
       text-decoration: underline;
+    }
+
+    /* Styling for horizontal links with slashes */
+    .sections span {
+      margin: 0 5px;
+      color: black; /* This makes the slashes neutral */
     }
 
     /* Responsive design for smaller screens */
@@ -74,6 +84,10 @@
 
       .info {
         align-items: center;
+      }
+
+      .sections {
+        text-align: center;
       }
     }
   </style>
@@ -96,21 +110,27 @@
 
   <hr>
 
-  <!-- Links to sections -->
+  <!-- Links to sections in a horizontal layout -->
   <section class="sections">
     <h2>Quick Links</h2>
-    <ul>
-      <li><a href="CV.pdf">CV</a></li>
-      <li><a href="https://github.com/Sundareswari-12" target="_blank">GitHub</a></li>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#internships">Internships</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#certifications">Certifications</a></li>
-    </ul>
+    <div>
+      <a href="CV.pdf">CV</a>
+      <span>/</span>
+      <a href="https://github.com/Sundareswari-12" target="_blank">GitHub</a>
+      <span>/</span>
+      <a href="#research">Research</a>
+      <span>/</span>
+      <a href="#internships">Internships</a>
+      <span>/</span>
+      <a href="#projects">Projects</a>
+      <span>/</span>
+      <a href="#certifications">Certifications</a>
+    </div>
   </section>
 
   <hr>
-    <!-- Research Section -->
+  
+  <!-- Research Section -->
   <section id="research">
     <h2>Research</h2>
     <ul>
@@ -128,6 +148,7 @@
   </section>
 
   <hr>
+  
   <!-- Internship Section -->
   <section id="internships">
     <h2>Internships</h2>
