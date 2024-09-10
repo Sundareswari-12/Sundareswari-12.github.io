@@ -1,5 +1,8 @@
+<div align="center">
+
 # Project Title
 
+<img src="link-to-your-photo.jpg" alt="Your Name" width="150" style="border-radius: 50%;"/>
 ## Author
 
 - **Name:** Your Name  
