@@ -2,7 +2,8 @@
 
 <h1>Sundareswari Thiyagarajan</h1>
 
-<img src="photo.jpeg" alt="Sundareswari Thiyagarajan" width="200">
+<!-- Image with reduced size -->
+<img src="photo.jpeg" alt="Sundareswari Thiyagarajan" style="width: 150px; height: auto;">
 
 <p><strong>Email:</strong> <a href="mailto:tsundareswari@gmail.com">tsundareswari@gmail.com</a></p>
 
