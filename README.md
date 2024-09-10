@@ -117,7 +117,7 @@
     <h2>Internships</h2>
     <ul>
       <li>
-        <strong><a href="https://gurpreetsinghwsu.github.io/cv/projects.html">AI to Detect Criminal Cars with License Plate</strong> (2024)<br>
+        <strong>AI to Detect Criminal Cars with License Plate</strong> (2024)<br>
         Worked on developing an AI model to identify criminal vehicles using license plate recognition. The project involved computer vision and deep learning techniques.
       </li>
       <!-- Add more internships as needed -->
@@ -131,12 +131,16 @@
     <h2>Projects</h2>
     <ul>
       <li>
-        <strong>Viable Embryo Detection in Banana Breeding</strong> (2022)<br>
+        <strong>STOCK MARKET PREDICTION USING SENTIMENTAL ANALYSIS</strong> (2023)<br>
+        Using NLP and machine learning techniques to classify each piece of text as positive, negative, or neutral sentiment. LSTM and polarity score are used to predict the stock prices.
+      </li>
+      <li>
+        <strong>EMBRYO DETECTION IN BANANA USING ARDUINO</strong> (2022)<br>
         Developed a handheld portable device for viable embryo detection, funded by CSRC under the Research Support Scheme "Student Innovative Project".
       </li>
       <li>
-        <strong>Stress Detection using LSTM & XGBoost</strong> (2024)<br>
-        A multi-model approach to detect stress using physiological signals and machine learning models such as LSTM and XGBoost.
+        <strong>THE PARKINSON’S DISEASE DETECTION USING MACHINE LEARNING TECHNIQUES (</strong> (2024)<br>
+        Detecting Parkinsons disease using Spiral test , where the input images are trained with Random Forest Classifier. To implement Parkinson’s detector deep learning and Convolutional Neural Networks (CNNs) are used.
       </li>
       <!-- Add more projects as needed -->
     </ul>
