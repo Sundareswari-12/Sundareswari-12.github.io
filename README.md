@@ -2,7 +2,7 @@
 
 # Sundareswari Thiyagarajan 
 
-![Sundareswari Thiyagarajan](link-to-your-photo.jpg)  
+![Sundareswari Thiyagarajan](photo.jpeg)  
 
 **Email:** [tsundareswari@gmail.com](mailto:tsundareswari@gmail.com)
 
@@ -14,7 +14,7 @@ I am interested in Artificial Intelligence, Machine Learning, Natural Language P
 
 Previously, I obtained my Certification in Advanced Cybersecurity (CACS) in Computer Forensics from CYBERX TECHNOLOGIES, and my Education in Artificial Intelligence from Woosong University.
 
-[CV](#) / [Google Scholar](#) / [GitHub](#) / [Projects](#) / [Internships](#) / [Honors & Awards](#) / [Certificates](#) / [My Life](#) / [Contact](#)
+[CV](CV.pdf) / [Google Scholar](#) / [GitHub](#) / [Projects](#) / [Internships](#) / [Honors & Awards](#) / [Certificates](#) / [My Life](#) / [Contact](#)
 
 ---
 
