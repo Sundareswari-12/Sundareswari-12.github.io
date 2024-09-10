@@ -79,7 +79,7 @@
       <h1>Sundareswari Thiyagarajan</h1>
       <p><strong>Email:</strong> <a href="mailto:tsundareswari@gmail.com">tsundareswari@gmail.com</a></p>
       <p class="introduction">
-        Hello! I am Sundareswari Thiyagarajan, a dedicated and enthusiastic researcher with a focus on Machine Learning and Artificial Intelligence applications, especially in areas like Drug-Drug Interactions and Stress Detection. I am passionate about exploring cutting-edge technologies and applying them to solve real-world problems.
+        As an aspiring AI student, I am passionate about using data and machine learning to drive innovation and solve complex problems. I combine a strong analytical foundation with a creative mindset to build models that are not only accurate but also adaptable to real-world challenges. My expertise spans neural networks, deep learning, and AI-driven decision-making. I enjoy working on projects that push the boundaries of what AI can do, from predictive modeling to creative problem-solving applications.
       </p>
     </div>
   </div>
