@@ -1,8 +1,6 @@
-<div align="center">
-
 # Sundareswari Thiyagarajan
 
-<img src="photo.jpeg" alt="Sundareswari Thiyagarajan" width="200">  
+![Sundareswari Thiyagarajan](photo.jpeg)
 
 **Email:** [tsundareswari@gmail.com](mailto:tsundareswari@gmail.com)
 
@@ -22,9 +20,10 @@
   Dr. Saurabh Singh, Gurpreet Singh, Renuka Ramasamy, Sundareswari Thiyagarajan  
   *IEEE Access 2024 (Under Review)*
 
-</div>
+---
 
 ## Certifications & Awards
+
 - Texas Instruments Online contest participation in the IICDC-2019-LIC (Oct 2019).
 - Texas Instruments Online contest participation in the IICDC-2019-MSP (Oct 2019).
 - React JS Workshop conducted by Madras Institute of Technology, Anna University, Chennai (May 2022).
