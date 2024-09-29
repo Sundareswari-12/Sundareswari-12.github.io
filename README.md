@@ -9,7 +9,6 @@
       font-family: Arial, sans-serif;
       margin: 20px;
     }
-
     /* Flexbox container for the image and contact details */
     .container {
       display: flex;
