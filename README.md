@@ -105,7 +105,7 @@
   <!-- Links to sections in a horizontal layout without "Quick Links" heading -->
   <section class="sections">
     <div>
-      <a href="CV.pdf">CV</a>
+      <a href="CV (4).pdf">CV</a>
       <span>/</span>
       <a href="https://github.com/Sundareswari-12" target="_blank">GitHub</a>
       <span>/</span>
