@@ -1,8 +1,5 @@
 # Sundareswari Thiyagarajan
-
-Research portfolio of Sundareswari Thiyagarajan, an M.S. researcher in Electrical and Computer Engineering at Inha University, Republic of Korea.
-
-The portfolio is designed for PhD applications, research collaboration, and academic communication.
+M.S. researcher in Electrical and Computer Engineering at Inha University, Republic of Korea.
 
 ## Research interests
 
