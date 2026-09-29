@@ -1,6 +1,8 @@
 # Sundareswari Thiyagarajan
-M.S. researcher in Electrical and Computer Engineering at Inha University, Republic of Korea.
 
+Research portfolio of Sundareswari Thiyagarajan, an M.S. researcher in Electrical and Computer Engineering at Inha University, Republic of Korea.
+
+The portfolio is designed for PhD applications, research collaboration, and academic communication.
 
 ## Research interests
 
@@ -33,7 +35,7 @@ Additional work includes speaker verification research presented through the Kor
 ## Teaching and experience
 
 - Learning Assistant for Computer Programming Python, Inha University
-- Laboratory support for Object-Oriented Programming
+- Laboratory support for Object-Oriented Programming and C++
 - Advanced AI Intern, The Korean Academy
 - Java Full-Stack Development Intern, Eazy Bytes
 
