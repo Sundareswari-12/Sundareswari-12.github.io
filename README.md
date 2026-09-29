@@ -35,7 +35,7 @@ Additional work includes speaker verification research presented through the Kor
 ## Teaching and experience
 
 - Learning Assistant for Computer Programming Python, Inha University
-- Laboratory support for Object-Oriented Programming and C++
+- Laboratory support for Object-Oriented Programming
 - Advanced AI Intern, The Korean Academy
 - Java Full-Stack Development Intern, Eazy Bytes
 
